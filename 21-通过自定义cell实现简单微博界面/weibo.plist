@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>icon</key>
+		<string>010.png</string>
+		<key>name</key>
+		<string>牛牛抽筋</string>
+		<key>vip</key>
+		<integer>1</integer>
+		<key>time</key>
+		<string>2014.9.18</string>
+		<key>source</key>
+		<string>iphone手机客户端</string>
+		<key>content</key>
+		<string>这也忒狠了</string>
+		<key>image</key>
+		<string>6.png</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>012.png</string>
+		<key>name</key>
+		<string>牛牛吹雪</string>
+		<key>vip</key>
+		<integer>1</integer>
+		<key>time</key>
+		<string>2014.9.18</string>
+		<key>source</key>
+		<string>iphone6客户端</string>
+		<key>content</key>
+		<string>下午一客户来维修电脑，当时哥打开电脑一开，就石化了</string>
+		<key>image</key>
+		<string>2.png</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>011.png</string>
+		<key>name</key>
+		<string>牛牛SM</string>
+		<key>vip</key>
+		<string>0</string>
+		<key>time</key>
+		<string>2014.9.18</string>
+		<key>source</key>
+		<string>iphone 6 手机客户端</string>
+		<key>content</key>
+		<string> 你他妈真的太机智了！</string>
+		<key>image</key>
+		<string>13.png</string>
+	</dict>
+	<dict/>
+	<dict/>
+	<dict/>
+	<dict/>
+	<dict/>
+	<dict/>
+	<dict/>
+</array>
+</plist>

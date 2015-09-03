@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "21-&#x901a;&#x8fc7;&#x81ea;&#x5b9a;&#x4e49;cell&#x5b9e;&#x73b0;&#x7b80;&#x5355;&#x5fae;&#x535a;&#x754c;&#x9762;/WeiBoCell.m"
+            timestampString = "432995689.261318"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "94"
+            endingLineNumber = "94"
+            landmarkName = "-setWeiboframe:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "21-&#x901a;&#x8fc7;&#x81ea;&#x5b9a;&#x4e49;cell&#x5b9e;&#x73b0;&#x7b80;&#x5355;&#x5fae;&#x535a;&#x754c;&#x9762;/ViewController.m"
+            timestampString = "432989704.919773"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "21-&#x901a;&#x8fc7;&#x81ea;&#x5b9a;&#x4e49;cell&#x5b9e;&#x73b0;&#x7b80;&#x5355;&#x5fae;&#x535a;&#x754c;&#x9762;/WeiBoCell.h"
+            timestampString = "432995152.872127"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "icon"
+            landmarkType = "19">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[WeiBoCell vip]"
+                  moduleName = "21-&#x901a;&#x8fc7;&#x81ea;&#x5b9a;&#x4e49;cell&#x5b9e;&#x73b0;&#x7b80;&#x5355;&#x5fae;&#x535a;&#x754c;&#x9762;"
+                  urlString = "file:///Users/Mac/Desktop/IOS%E5%BC%80%E5%8F%91%E5%AD%A6%E4%B9%A0/21-%E9%80%9A%E8%BF%87%E8%87%AA%E5%AE%9A%E4%B9%89cell%E5%AE%9E%E7%8E%B0%E7%AE%80%E5%8D%95%E5%BE%AE%E5%8D%9A%E7%95%8C%E9%9D%A2/21-%E9%80%9A%E8%BF%87%E8%87%AA%E5%AE%9A%E4%B9%89cell%E5%AE%9E%E7%8E%B0%E7%AE%80%E5%8D%95%E5%BE%AE%E5%8D%9A%E7%95%8C%E9%9D%A2/WeiBoCell.h"
+                  timestampString = "432994296.461063"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[WeiBoCell setVip:]"
+                  moduleName = "21-&#x901a;&#x8fc7;&#x81ea;&#x5b9a;&#x4e49;cell&#x5b9e;&#x73b0;&#x7b80;&#x5355;&#x5fae;&#x535a;&#x754c;&#x9762;"
+                  urlString = "file:///Users/Mac/Desktop/IOS%E5%BC%80%E5%8F%91%E5%AD%A6%E4%B9%A0/21-%E9%80%9A%E8%BF%87%E8%87%AA%E5%AE%9A%E4%B9%89cell%E5%AE%9E%E7%8E%B0%E7%AE%80%E5%8D%95%E5%BE%AE%E5%8D%9A%E7%95%8C%E9%9D%A2/21-%E9%80%9A%E8%BF%87%E8%87%AA%E5%AE%9A%E4%B9%89cell%E5%AE%9E%E7%8E%B0%E7%AE%80%E5%8D%95%E5%BE%AE%E5%8D%9A%E7%95%8C%E9%9D%A2/WeiBoCell.h"
+                  timestampString = "432994296.46174"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "20">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
